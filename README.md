@@ -1,6 +1,6 @@
 # Módulo de Clima y GPS (Kotlin)
 
-Este repositorio contiene nuestra parte del proyecto: el código que se encarga de leer la ubicación real del usuario y descargar el clima actual usando la API de Open-Meteo. 
+Este repositorio se encarga de leer la ubicación real del usuario y descargar el clima actual usando la API de Open-Meteo. 
 
 Está diseñado para que el resto del equipo solo tenga que llamar a una función y recibir los datos limpios, sin preocuparse de cómo funciona por debajo.
 
