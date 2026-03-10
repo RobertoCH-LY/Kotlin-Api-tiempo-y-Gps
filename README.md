@@ -46,4 +46,4 @@ Ahí podrás ver en tiempo real:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la Licencia MIT. Esto significa que el código es totalmente libre: se puede usar, copiar, modificar y distribuir sin restricciones para integrarlo en la aplicación final.
+Este repositorio se distribuye bajo la Licencia MIT. Esto significa que el código es totalmente libre: se puede usar, copiar, modificar y distribuir sin restricciones para integrarlo en la aplicación final.
